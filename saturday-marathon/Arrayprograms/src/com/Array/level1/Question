@@ -1,0 +1,12 @@
+1) WAJP to create an integer array by taking length as 
+input from the user.Take the contents of the array from 
+user and store it in the array. Display the contents 
+of the array on to the console.
+
+2) WAJP to create an integer array by taking length as 
+input from the user.Take the contents of the array from 
+user and store the contents in the array. Display the 
+contents of the array by incrementing each value present 
+in the array by 5 on to the console.
+Note  : Use Enhanced For Loop
+

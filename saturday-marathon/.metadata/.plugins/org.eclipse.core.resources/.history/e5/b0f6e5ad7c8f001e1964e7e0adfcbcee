@@ -1,0 +1,18 @@
+package com.solve;
+
+import java.util.Scanner;
+
+public class Solution3 {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int num=sc.nextInt();
+		String br="";
+		int rem;
+		while(num>0) {
+			rem=num%2;
+			br=br+rem;
+			num=num/2;
+		}
+		System.out.println(br);
+
+	}

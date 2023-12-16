@@ -1,0 +1,15 @@
+package com.solve;
+
+public class Solution4 {
+	public static void main(String[] args) {
+		int br=101;
+		int num=0;
+		while(br>0) {
+			int n=br/10;
+			n=num+n*pow(2);
+			num=num/2;
+		}
+		System.out.println(num);
+
+	}
+}
